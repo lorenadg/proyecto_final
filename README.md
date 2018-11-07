@@ -43,6 +43,10 @@
 
 **Sketch del sitio**
 
+https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9634.JPG
+https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9635.JPG
+https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9637.JPG
+https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9638.JPG
 
 
 
