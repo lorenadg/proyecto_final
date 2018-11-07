@@ -43,16 +43,10 @@
 
 **Sketch del sitio**
 
-https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9634.JPG
-https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9635.JPG
-https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9637.JPG
-https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9638.JPG
+![Layout](https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9634.JPG)
 
+![Layout](https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9635.JPG)
 
+![Layout](https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9637.JPG)
 
-
-
-
-
-El boceto a mano (como imagen agregada al README.md y a la carpeta images del directorio (cuarto commit))
-7. Realizar un Mockup del home con HTML, CSS y Bootstrap (quinto commit).
+![Layout](https://github.com/lorenadg/proyecto_final/blob/master/assets/img/images/IMG_9638.JPG)
