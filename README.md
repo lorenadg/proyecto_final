@@ -13,4 +13,4 @@ Los requerimientos del sitio
 La definición de layout (tipo de página).
 El boceto a mano (como imagen agregada al README.md y a la carpeta images del directorio (cuarto commit))
 7. Realizar un Mockup del home con HTML, CSS y Bootstrap (quinto commit).
-8. Versionar todo a través de GIT y gestionarlo por GitHub.
+8. Versionar todo a través de GIT y gestionarlo por GitHub
