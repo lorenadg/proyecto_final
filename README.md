@@ -11,7 +11,7 @@
 
 
 **La definición de layout**.
-Es un sitio corporativo con páginas tipo blog.
+- Es un sitio corporativo con páginas tipo blog.
 
 
 **Requisitos generales**
