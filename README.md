@@ -23,6 +23,21 @@
   - 3ª entrega al usuario información de contenidos relacionados.
   - 4ª Información de fechas y horarios de clases y/o actividades junto con inscripción.
 
+**Estructura de directorios**  
+
+/proyecto_final
+/assets
+  /CSS
+  /js
+  /img
+    /images
+  /fonts
+index.html
+actividades.html
+blog.html
+contacto.html  
+
+
 **Requisitos específicos**
 - Selecciones con grilla. Usar Boostrap.
 - Párrafos generados con textos generados especialmente para web, entregado por cliente.
