@@ -32,11 +32,12 @@
 - Layout, usar Bootstrap.
 - Fuentes, google fonts.
 	- Títulos: Roboto.
-	- Párrafos y otros: Open Sans.
+	- Párrafos y otros: Open Sans, Helvetica.
 - Colores:
-	- Letras: #000000
-	- Botones: #ef7c0c
-	- Barra de navegación y footer: #f9872b
+	- Letras fondo color: #ffffff
+	- Letras fondo blanco: #000000
+	- Barra de navegación: #ffffff
+	- Footer: #8164a8
 	- Letras de barra de navegación y footer: #ffffff
 - Imágenes, se encuentran dentro de la carpeta entregada por cliente.
 
