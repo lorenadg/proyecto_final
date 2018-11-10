@@ -26,15 +26,25 @@
 **Estructura de directorios**  
 
 /proyecto_final
+
 /assets
+
   /CSS
+
   /js
+
   /img
+
     /images
+
   /fonts
+
 index.html
+
 actividades.html
+
 blog.html
+
 contacto.html  
 
 
