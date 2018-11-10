@@ -21,14 +21,14 @@ img {
 
 h2 {
   font-size: 28px;
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Open Sans', sans-serif;
 }
 
 h3 {
   font-size: 3vh;
-  font-family: 'Roboto', sans-serif;
-  font-family: 'Open Sans', sans-serif;
+}
+
+strong {
+  color: white;
 }
 
 .navbar-default .navbar-brand {
@@ -44,9 +44,9 @@ h3 {
 
 .contacto {
   margin-bottom: 10px;
-  margin-top: 30px;
+  margin-top: 20px;
   background-color: #8164a8;
-  padding-top: 50px;
+  padding-top: 20px;
   padding-bottom: 50px;
 }
 
@@ -107,6 +107,14 @@ h3 {
 
 .form-group {
   color: white;
+}
+
+.navbar-left {
+  padding-left: 0px;
+}
+
+.form-control {
+  padding-right: 95px;
 }
 
 .navbar-collapse {
